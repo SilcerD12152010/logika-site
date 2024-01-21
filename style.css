@@ -1,0 +1,59 @@
+body{
+background:rgb(255, 214, 48);
+font-family:sans-serif;
+}
+
+header h1{
+text-align:center;
+  color:rgb(255, 0, 251);
+}
+
+header p{
+color:#7a2b6f;
+}
+
+main p{
+color:Green;
+text-align:left;
+}
+
+main h1{
+text-align:center;
+color:#602B7A;
+}
+
+.violet{
+    text-align:center;
+color:#602B7A;
+}
+
+.green{
+text-align:center;
+color:Green;
+}
+
+img{
+width: 690px;
+}
+
+ul{
+list-style: none;
+display: flex;
+}
+li img{
+width:50px ;
+
+
+}
+
+li{
+  padding:30px ;  
+display: flex;
+align-items: center;
+}
+
+li strong{
+color:#602B7A;
+
+}
+
